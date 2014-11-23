@@ -1,0 +1,61 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>田浩的博客</title>
+<style type="text/css">
+p{
+   font-size:12px;
+   color:#00FFFF;
+   font-weight:bold;
+   border-bottom:5px dotted #ccc; 
+}
+ .stress{
+    font-size:50px;text-align:center;
+    color:#00FFFF
+}
+.biankuang li{
+    border:8px dotted #ccc;
+}
+
+body{
+background: url("u=1607881576,114719858&fm=21&gp=0.jpg")  ;
+}
+
+
+
+
+
+p.no2 {background-color: gray; padding: 20px;}
+
+</style>
+
+
+</head>
+	<body>
+    </div>
+    <h1 class="stress">田浩的博客</h1>
+    </div>
+
+    <div>
+    <p><strong>田浩</strong>，北京人。来自北京科技大学。</p>
+    <p>喜欢运动，编程。</p>
+    </div>
+
+    <div>
+    <ul class="biankuang stress">
+       <li><a href="file:///C:/Users/DELOVEPER---1/Desktop/%E6%88%91%E7%9A%84%E5%8D%9A%E5%AE%A2/diyi" target="_blank" title="点击进入">我的介绍</a> </li>
+       <li><a href="#" target="_blank" title="点击进入">我的博文</a></li>
+       <li><a href="#" target="_blank" title="点击进入">我的图片</a></li>
+    </ul>
+    </div>
+
+    <span>
+    <div>
+    <address>地址：北京市海淀区学院路30号</address>
+    <a href="mailto:tianao351@126.com?subject=联系我&body=您好，我想认识您">如果您想联系我，点击发送邮件。
+</a>
+     </div>
+     </span>
+
+</body>
+</html>
