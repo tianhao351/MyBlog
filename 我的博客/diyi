@@ -1,0 +1,183 @@
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>我的介绍</title>
+<style type="text/css">
+
+
+
+#container{
+	background:url('u=1607881576,114719858&fm=21&gp=0.jpg') ;
+	width: 820px;
+	margin:10px auto;
+	padding: 2px;
+}
+
+
+#banner{
+	width: 719px;
+	background: url('137104401245870.jpg');top left ;
+	margin: 0 0 3px 0;
+	position:  relative;
+	height :130px;
+	color:#fff;
+}
+
+
+#nav{
+	background:; 
+	width:810px;
+	text-align: right;
+	padding: 5px;
+	margin: 0 0 5px 0;
+}
+
+#content {
+	height: 100%;
+	float:left;
+    background: ;
+    padding:  5px;
+    width:650px;
+    margin-bottom: 20px;
+
+}
+
+#sidebar{
+	float: right;
+	width: 130px;
+	border-left: 1px dotted #ccc;
+	padding: 5px 0 0 10px;
+	margin: 10px 0 10px 150px f}
+
+#topbar{
+	text-align: right;
+	color: #666;
+	padding: 15px;
+	margin-right: 150px;
+
+}
+
+#footer{
+	clear: both;
+	background: url('u=1607881576,114719858&fm=21&gp=0.jpg') repeat;
+	border-top: 4px solid #666;
+	text-align: center;
+	padding-bottom:  5px;
+
+}
+
+#banner h1 {
+	position:  absolute;
+	letter-spacing: -2px;
+	font-size: 32px;
+	top: 35px;
+	left: 20px
+}
+#topbar a {
+
+	color: #87af7b;
+	text-decoration: none;
+	color: #666;
+	font-weight: bold;
+}
+#topbar a:hover{
+	text-decoration:  underline;
+}
+#topbar h3{
+	margin:  0 0 3px ;
+	padding: 0;
+
+}
+
+
+#topbar ul{
+	margin: 0;
+	padding: 0;
+}
+
+#topbar li {
+	list-style: none;
+	width: auto;
+}
+
+
+
+
+</style>
+
+
+
+
+
+
+<body>
+<div id="container">
+
+    <div id="nav">  <a href="#">首页</a> <a href="#">我的简介</a> <a href="#">我的博文</a> <a href="#">我的照片</a></div>
+	<div id="banner">
+		<h1>我的简介</h1>
+
+		<div id="topbar">
+		<h3>类别</h3>
+		<ul>
+			<li><a href="#">故乡</a></li>
+			<li><a href="#">理想</a></li>
+			<li><a href="#">哲学</a></li>
+			<li><a href="#">爱好</a></li>
+
+		</ul>
+	    </div>
+
+
+
+
+	</div>
+	<div id="content">  。。。。。。。。
+
+		 
+
+ </div>
+	<div id="sidebar"> 
+		<h1 class="headline"><strong>跳转</strong>到</h1>
+		<ul>		
+			<li><a href="#">PAGE 1</li>
+			<li><a href="#">PAGE 2</li>
+			<li><a href="#">PAGE 3</li>
+			<li><a href="#">PAGE 4</li>
+
+
+		</ul>
+
+	</div>
+	
+</div>
+
+
+
+		</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
